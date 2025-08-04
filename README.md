@@ -35,7 +35,7 @@ README.md       # Project documentation
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-python.git
+git clone https://github.com/debashish-5/todo-python.git
 cd todo-python
 ```
 
